@@ -1,0 +1,15 @@
+nav {
+    width: 33vw;
+    position: relative;
+    left: 53.5%;
+}
+
+nav li {
+    list-style-type: none;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
